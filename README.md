@@ -1,29 +1,61 @@
-# data-front
+# Data Project p2021 - RATP Group 2
 
-## Project setup
+9 3/4 will be the dashboard that supports RATP in its decision-making process regarding the services to be offered in stations.
+
+## Installation
+
+Use the package manager npm to install our dashboard.
+
 ```
-npm install
+npm install / yarn install
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
+
 ```
-npm run serve
+npm run serve / yarn serve
 ```
 
-### Compiles and minifies for production
+
+## Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Run your tests
+## Front-end Stack
 ```
-npm run test
+# Base
+Vuejs
+Vue-router
+
+# Libraries / Framework / Dependencies
+Axios
+Bootstrap
+Font awesome
+Jquery
+Leaflet
+Materialize-css
+Sass
+Vue-spinner
+
+# Dataviz
+Vue-leaflet
+ApexChart
 ```
 
-### Lints and fixes files
+
+## Back-end Stack
 ```
-npm run lint
+# Base
+Nodejs
+
+# Libraries / Framework / Dependencies
+Hapi 
+Joi
+Knex
+
+# Tools
+Nodemon
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### GROUP2 : CAPRON - CEREN - LANCEL - LEVY - MAHÉO
