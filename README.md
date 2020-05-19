@@ -58,4 +58,3 @@ Knex
 Nodemon
 ```
 
-#### GROUP2 : CAPRON - CEREN - LANCEL - LEVY - MAHÉO
